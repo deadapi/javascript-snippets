@@ -13,3 +13,10 @@ console.log(getPositiveTemperatures([1, -3, -2, 4, 10])); // [1, 4, 10]
     ele => ele >= 0: This checks if each number (ele) is greater than or equal to 0.
     Return: It returns a new array with only the positive numbers (including zero).
  */
+
+function getOddYears(years) {
+    return years.filter(year => year % 2 !== 0);
+}
+
+console.log(getOddYears([2000, 2001, 2002, 2003])); // [2001, 2003]
+console.log(getOddYears([1900, 1901, 1902, 1903])); // [1901, 1903]
