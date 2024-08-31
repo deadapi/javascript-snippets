@@ -20,6 +20,3 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 For any questions or feedback, please open an issue or contact me via [GitHub Issues](https://github.com/your-username/javascript-code-snippets/issues).
 
----
-
-**Note:** Replace `your-username` with your actual GitHub username and update the repository name accordingly.
